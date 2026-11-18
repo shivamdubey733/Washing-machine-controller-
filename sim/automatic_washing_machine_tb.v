@@ -2,8 +2,6 @@
 
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: Shivam Dubey (Roll No: 24B-VD-041)
-// 
 // Design Name: Automatic Washing Machine Controller Testbench
 // Module Name: automatic_washing_machine_tb
 // Target Devices: Simulation (ModelSim, Icarus Verilog, Vivado Simulator)

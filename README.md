@@ -11,12 +11,11 @@ The controller orchestrates the end-to-end wash cycle, including door safety int
 
 ---
 
-## 👨‍💻 Project Information
+## 👨‍💻 Project Overview
 
-* **Author:** Shivam Dubey
-* **Roll No:** 24B-VD-041
-* **Design Type:** Synchronous Mealy/Moore FSM Controller
-* **Target Tools:** Xilinx Vivado, ModelSim, Icarus Verilog + GTKWave
+* **Design Type:** Synchronous Finite State Machine (FSM)
+* **HDL Language:** Verilog HDL
+* **Simulation & Synthesis:** Xilinx Vivado, ModelSim, Icarus Verilog + GTKWave
 
 ---
 

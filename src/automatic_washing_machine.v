@@ -2,8 +2,6 @@
 
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: Shivam Dubey (Roll No: 24B-VD-041)
-// 
 // Design Name: Automatic Washing Machine Controller
 // Module Name: automatic_washing_machine
 // Target Devices: FPGA / CPLD / ASIC (Xilinx Vivado, ModelSim, Quartus)
