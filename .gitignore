@@ -1,0 +1,9 @@
+# Simulation artifacts
+*.vcd
+*.vvp
+*.log
+*.jou
+*.wdb
+work/
+xsim.dir/
+.Xil/
