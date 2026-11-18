@@ -29,6 +29,16 @@ The controller orchestrates the end-to-end wash cycle, including door safety int
 
 ---
 
+## 🔄 FSM State Diagram
+
+<p align="center">
+  <img src="docs/images/fsm_state_diagram.png" alt="FSM State Transition Diagram" width="90%"/>
+  <br>
+  <sub>🔍 <em>State transition diagram from project design showing conditions for every transition arc between check_door, fill_water, add_detergent, cycle, drain_water, and spin.</em></sub>
+</p>
+
+---
+
 ## ⚙️ FSM States & State Encoding
 
 The controller operates as a 3-bit synchronous state machine with 6 distinct operating states:
